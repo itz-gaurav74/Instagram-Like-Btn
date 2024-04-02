@@ -7,6 +7,7 @@ This project is a simple demonstration of an Instagram-like love button animatio
 ![image](https://github.com/itz-gaurav74/Instagram-Like-Btn/assets/116722012/23ba00b7-1780-4cfa-a50c-fd13e09ad477)
 
 
+<a href='https://itz-gaurav74.github.io/Instagram-Like-Btn/'>Demo</a>
 
 ## How to Use
 
